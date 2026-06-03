@@ -1,1 +1,5 @@
 gradio
+python-dotenv
+google-generativeai
+youtube-transcript-api
+typing-extensions
