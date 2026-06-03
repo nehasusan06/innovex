@@ -73,4 +73,4 @@ python app.py
 * NEHA SUSAN BIJU
 * VISHNU VINOD MENON
 
-Developed as a Capstone Project.
+
