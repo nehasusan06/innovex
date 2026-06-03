@@ -3,8 +3,8 @@ import gradio as gr
 from dotenv import load_dotenv
 
 # Import services
-import youtube_service
-import gemini_service
+from backend import youtube_service
+from backend import gemini_service
 
 # Load environmental variables
 load_dotenv()
